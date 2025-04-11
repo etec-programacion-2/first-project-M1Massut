@@ -16,8 +16,8 @@ fun main() {
     val pi=3.14
     val aprobado= true
     println ("hola $nombre") //printeo de la variable 
-    println("aprobe? $aprobado)
-    println ("el numero de pi es $pi)
+    println("aprobe? $aprobado")
+    println ("el numero de pi es $pi")
 
     println(App().greeting)
 }
