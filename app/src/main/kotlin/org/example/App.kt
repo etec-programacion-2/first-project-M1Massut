@@ -11,5 +11,14 @@ class App {
 }
 
 fun main() {
+    val nombre: String = "Maximo" //definicion de variable 
+    var dni=4985474
+    val pi=3.14
+    val aprobado= true
+    println ("hola $nombre") //printeo de la variable 
+    println("aprobe? $aprobado)
+    println ("el numero de pi es $pi)
+
     println(App().greeting)
 }
+
